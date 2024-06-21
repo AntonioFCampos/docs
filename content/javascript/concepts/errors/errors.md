@@ -23,8 +23,8 @@ Thrown errors are caught by the next outer `catch` block of a `try...catch...fin
 
 The error object holds information about the exception that was thrown in its two properties:
 
-- `name` Sets or returns an error name. (Type of Error)
-- `message` Sets or returns an error message. (Description of specific instance.)
+- `name` Sets or returns an error name (Type of Error).
+- `message` Sets or returns an error message (Description of specific instance).
 
 The following types of error can be returned by the `name` property:
 
